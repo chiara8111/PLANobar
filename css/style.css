@@ -104,6 +104,14 @@ body {
 	z-index: 1;
 }
 
+@media (max-width: 600px) {
+	.search-form {
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		text-align: center;
+	}
+}
+
 .btn-orange {
 	color: black;
 	font-weight: bold;
